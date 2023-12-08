@@ -1,0 +1,57 @@
+.home{
+    padding: 0 9rem;
+}
+.prodDesignerMenu{
+    color: #E87D0E;
+    width: 273px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 155.2%;
+    text-align: left;
+}
+.workDesignerMenu{
+    width: 480px;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 155.2%;
+    text-align: left;
+}
+.textDesignerMenu{
+    width: 527px;
+    height: 101px;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 200%;
+    text-align: left;
+}
+.getMoreDetails{
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 195px;
+    height: 53px;
+    border-radius: 40px;
+    background: linear-gradient(92deg, #FA8305 2.08%, #FB9E3C 117.25%);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.joyStickPic{
+    display:flex;
+    margin-top: -120px;
+    
+}
+.designerMenu{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
